@@ -1,6 +1,6 @@
 # Customer-Purchasing-Behavior-Analysis
-### This Power BI project analyzes customer purchasing behavior using transactional and customer behavior data. The dashboard provides preferences, shipping methods, payment choices and customer satis faction ratings.
-## Tools Used: Power BI, Power Query, Data Visualization, Excel.
+### This Power BI project analyzes customer purchasing behavior using transactional and customer behavior data. The dashboard provides preferences, shipping methods, payment choices and customer satisfaction ratings.
+## Tools Used: Power BI (Power Query, Data Visualization), Excel.
 ## Dashboard Screenshot -
 
 <img width="1521" height="750" alt="customer purchasing behavior screenshot" src="https://github.com/user-attachments/assets/1bd8ea07-19a2-4c62-9795-8bfca1cabb34" />
