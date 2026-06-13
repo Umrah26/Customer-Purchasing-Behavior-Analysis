@@ -3,8 +3,11 @@
 ## Tools Used: Power BI, Power Query, Data Visualization, Excel.
 ## Dashboard Analysis:
 
+<img width="1521" height="750" alt="customer purchasing behavior screenshot" src="https://github.com/user-attachments/assets/1bd8ea07-19a2-4c62-9795-8bfca1cabb34" />
 
-## Business Value : ### The dashboard enables management to :
+
+## Business Value :
+### The dashboard enables management to :
 #### - Understand customer buying patterns.
 #### - Improve inventory allocations.
 #### - Optimize shipping strategies.
