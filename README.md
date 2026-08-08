@@ -1,5 +1,5 @@
 # Customer-Purchasing-Behavior-Analysis
-#### Built an interactive Power BI dashboard to analyze customer purchasing behavior by using transactional and customer behavior data. The dashboard provides preferences, shipping methods, payment choices and customer satisfaction ratings.
+#### This Power BI dashboard  focuses on purchase amounts, product categories, customer ratings, shipping preferences, payment methods, product sizes, and previous purchase behavior. 
 ### Tools Used: Power BI (Power Query, Data Visualization), Excel.
 ### Dashboard Screenshot -
 
@@ -28,7 +28,7 @@
 #### - Product ratings remain relatively consistent across categories, indicating stable customer experiences.
 ### 5. Size Preferences :
 #### - Medium (M) size products generate the highest sales.
-#### - Large (L) folows as the second most purchased size.
+#### - Large (L) follows as the second most purchased size.
 #### - Extra Large (XL) contributes the lowest purchase amount.
 ### 6. Payment Behavior :
 #### - Customers actively use digital payment methods such as Paypal and Venmo alongside traditional payment options.
@@ -42,7 +42,7 @@
 #### - Collect customer feedback for lower-rated items.
 ### 3. Marketing Strategy :
 #### - Focus promotional campaigns on high-performing categories such as Clothing and Accessories.
-#### - Use personalized recommendations based on previos purchase behavior.
+#### - Use personalized recommendations based on previous purchase behavior.
 ### 4. Shipping Strategy :
 #### - Continue offering Free Shipping as it is associated with higher purchase volumes.
 #### - Promote faster shipping options during peak sales periods.
