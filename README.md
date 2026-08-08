@@ -3,7 +3,7 @@
 ### Tools Used: Power BI (Power Query, Data Visualization), Excel.
 ### Dashboard Screenshot -
 
-<img width="1521" height="750" alt="customer purchasing behavior screenshot" src="https://github.com/user-attachments/assets/1bd8ea07-19a2-4c62-9795-8bfca1cabb34" />
+<img width="1513" height="720" alt="customer purchasing behavior dashboard" src="https://github.com/user-attachments/assets/453eef89-43fe-4170-b8fa-c44a38ae4c93" />
 
 ## Dashboard Analysis:
 ## Business Value :
